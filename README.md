@@ -12,7 +12,7 @@ To run the program use the command: ./Release/my_crd < <Commands-list>.
 Replace <Command-list> by the name of the commands file you want to use, for example: "./Release/my_crd < medium-commands.lst"
 
 
-# =================== How it works ======================
+# How it works
 
 Commands generated all follows a similar pattern:
 <key> or <key> <value> or <key> <D>
